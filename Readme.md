@@ -41,11 +41,11 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** I feel that this course is really tailored to help students understand things better.
+**Answer:** I feel that this course is really tailored to help students understand things better. I really enjoy the process of adding new features and developing the app. 
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** Array adapter allows us to see a list view of the contents in the app. 
+**Answer:** Array adapter allows us to see a list view of the contents in the app. This functionality worked perfectly for us for this project. 
 
 ## Notes
 
